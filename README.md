@@ -2,7 +2,7 @@
 
 Este repositorio contiene la solución para la Evaluación Final Transversal de Tecnologías de Virtualización.
 
-## 🛠️ Estructura del Proyecto
+## Estructura del Proyecto
 * **app/**: Código fuente de la aplicación Flask en Python y sus dependencias.
 * **nginx/**: Configuración del reverse proxy NGINX.
 * **Dockerfile**: Definición de la imagen de contenedor estable basada en `python:3.12-slim`.
@@ -10,7 +10,7 @@ Este repositorio contiene la solución para la Evaluación Final Transversal de 
 
 ---
 
-## 🚀 Evidencias de Despliegue e Indicadores de Logro
+## Evidencias de Despliegue e Indicadores de Logro
 
 ### 1. Instalación de Herramientas y Entorno (IE 2.3.1)
 Se instaló correctamente Docker Engine y Docker Compose en la instancia EC2 de AWS Learner Lab.
